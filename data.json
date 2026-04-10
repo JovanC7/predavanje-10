@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Jovan Cvokic",
+        "age": 29,
+        "heigh": 180,
+        "gender": "male"
+    },
+    {
+        "name": "Nikolina Stetic",
+        "age": 27,
+        "heigh": 175,
+        "gender": "female"
+    },
+    {
+        "name": "Pera Peric",
+        "age": 35,
+        "heifh": 192,
+        "gender": "male"
+    },
+    {
+        "name": "Mitar Miric",
+        "age": 70,
+        "heigh": 165,
+        "genter": "male"
+    },
+    {
+        "name": "Mitar Miric",
+        "age": 70,
+        "heigh": 165,
+        "genter": "male"
+    }
+]
