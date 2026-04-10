@@ -1,0 +1,16 @@
+JSON - osnovni i univerzalni tip podatka za svaki programski jezik
+
+ima extenziju .json
+
+i slicna mu je struktura kao dic:
+
+[
+  {
+    "name" : "Jovan Cvokic",
+    "age" : 29,
+ 	. . .
+  },
+	.
+	.
+	.
+]
